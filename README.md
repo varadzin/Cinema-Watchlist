@@ -1,4 +1,4 @@
-# Cinema-Watchlist#
+# Cinema-Watchlist
 
 App shows details about searched Movies and Actors.
 You can create your Watchlist or Favorites list of Actors.
