@@ -8,5 +8,5 @@
 import Foundation
 struct ApiKey {
         static let shared = ApiKey()
-    let APIKEY = "?api_key=00af5b983dfc63cbc1d83c82831e94e4"
+    let APIKEY = "Insert Your API Key"
     }
